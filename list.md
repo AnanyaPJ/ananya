@@ -2,3 +2,6 @@
 - mango
 - pineapple
 - apple
+
+## mobile
+- iphone x
